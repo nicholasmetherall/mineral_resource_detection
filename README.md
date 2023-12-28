@@ -2,7 +2,7 @@
 mineral_resource_classifier
 
 
-Broad instructions were to bring a worfklow from Google Earth Engine into DEP. There were three potential ways to prepare the input datasets (cloudless mosaics):
+Broad instructions were to bring a machine learning worfklow from Google Earth Engine (GEE) into DEP. In November through trial and error, we found that this requires having pre-generated input training images. The approach would be more complicated than the GEE approach and the approaches used in the Tonga workshop which both did not work in the analytics hub. As a result, there were three potential ways to prepare the input datasets (cloudless mosaics):
 
 1. depal functions (same methods for Tonga workshop to download using depal functions) 
 a. First - tried to define using boundary for all of Fiji but this had a dateline issue.
