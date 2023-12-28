@@ -20,5 +20,5 @@ Broad instructions were to bring a machine learning worfklow from Google Earth E
 - c. Will be retrofitted with Sentinel at a later date pending work from Alex.
 
 
-Work in this repo is based on some of the work from November-December 2023. Many of the notebooks were lost due to unexpected clearing of all disk data on the staging platform. New notebooks have been copied onto this repository. 
+Work in this repo is based on some of the work from November-December 2023. Many of the notebooks were lost due to unexpected clearing of all disk data on the staging platform. New notebooks have been copied onto this from nmetherall's own repository. 
 
